@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @codepastac
+- 👋 Hi, I’m @codepastac, my real is Emmanuel or juwon
 - 👀 I’m a fullstack dev in both android and ios andweb development ...
 - 💞️ I’m looking to collaborate on any opensouces project for free ...
-- 📫 You can reach me at codepastac@gmail.com or contact
+- 📫 You can reach me at emmanueladesegun2@gmail.com or contact
 me  here => https://www.facebook.com/youngemma.adesegun...
 
 <!---
