@@ -7,8 +7,10 @@ In addition to my technical skills, I am also a strong communicator and collabor
 
 When I'm not coding, you can find me hiking, reading, or exploring new technologies and tools. Thanks for taking the time to check out my profile, and I look forward to connecting with you soon!
 
-- 📫 You can reach me at emmanueladesegun2@gmail.com or contact
-me  here => https://www.facebook.com/youngemma.adesegun...
+- 📫 You can reach me at emmanueladesegun2@gmail.com
+- 
+my portfolio here => 
+(https://codepastac.github.io/portfolio/)
 
 <!---
 codepastac/codepastac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
