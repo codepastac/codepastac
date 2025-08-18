@@ -1,5 +1,5 @@
 
-Hi there! My name is Emmanuel Adesegun, and I am a software developer with a passion for creating full stack applications. With experience in both front-end and back-end development, I have the skills to build robust and efficient applications that can help businesses and individuals achieve their goals.
+Hi there! My name is Emmanuel Carter, and I am a software developer with a passion for creating full stack applications. With experience in both front-end and back-end development, I have the skills to build robust and efficient applications that can help businesses and individuals achieve their goals.
 
 Throughout my career, I have worked on a wide range of projects, from small web applications to large-scale enterprise systems. I am always eager to take on new challenges and push myself to learn and grow as a developer.
 
@@ -10,7 +10,7 @@ When I'm not coding, you can find me hiking, reading, or exploring new technolog
 - 📫 You can reach me at emmanueladesegun2@gmail.com
 - 
 my portfolio here => 
-(https://codepastac.github.io/portfolio/)
+https://emdev-carter.vercel.app/
 
 <!---
 codepastac/codepastac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
